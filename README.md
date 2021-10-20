@@ -16,3 +16,5 @@ Pengumpulan dataset kami lakukan berdasarkan ketentuan/panduan yang diberikan ol
 - Dimensi 1600 X 1200 pixel.
 - Jumlah perkelas 50 image.
 - Masing-masing kelompok memiliki 2 label (Kemangi & Pandan).
+
+Kami melakukan pembagian tugas pengumpulan dataset dan hasilnya Nico bertugas mengumpulkan sample foto daun Kemangi dan Rachmat mengumpulkan sample foto daun Pandan.
