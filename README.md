@@ -4,7 +4,7 @@
 
 ## Kelompok Kerja
 
-Kelompok kerja kami berisi 2 orang, yaitu Nico Nielchen Hernanda (2019-165) sebagai ketua dan Rachmat Ramadhan (2019-198) sebagai anggota.
+Kelompok kerja kami berisi 2 orang yang berasal dari kelas AI 5D, yaitu Nico Nielchen Hernanda (2019-165) sebagai ketua dan Rachmat Ramadhan (2019-198) sebagai anggota.
 
 ## Pengumpulan Data
 
