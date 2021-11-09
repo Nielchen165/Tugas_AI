@@ -18,3 +18,7 @@ Pengumpulan dataset kami lakukan berdasarkan ketentuan/panduan yang diberikan ol
 - Masing-masing kelompok memiliki 2 label (Kemangi & Pandan).
 
 Kami melakukan pembagian tugas pengumpulan dataset dan hasilnya Nico bertugas mengumpulkan sample foto daun Kemangi dan Rachmat mengumpulkan sample foto daun Pandan.
+
+## Image Processing Fundamental
+
+Pada bagian ini, kami melakukan pemrosesan image/gambar seperti yang dicontohkan dalam kelas(video youtube) dari dosen pembimbing. Dataset yang kami simpan diolah menggunakan program pada file 'main.py' dan hasilnya ada 3, yaitu edge, grayscale, dan kontras. 
