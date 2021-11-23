@@ -22,3 +22,10 @@ Kami melakukan pembagian tugas pengumpulan dataset dan hasilnya Nico bertugas me
 ## Image Processing Fundamental
 
 Pada bagian ini, kami melakukan pemrosesan image/gambar seperti yang dicontohkan dalam kelas(video youtube) dari dosen pembimbing. Dataset yang kami simpan diolah menggunakan program pada file 'main.py' dan hasilnya ada 3, yaitu edge, grayscale, dan kontras. 
+
+## Image Classification using ANN
+
+
+
+## Image Classification using CNN
+
