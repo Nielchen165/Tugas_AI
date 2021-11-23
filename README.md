@@ -23,9 +23,9 @@ Kami melakukan pembagian tugas pengumpulan dataset dan hasilnya Nico bertugas me
 
 Pada bagian ini, kami melakukan pemrosesan image/gambar seperti yang dicontohkan dalam kelas(video youtube) dari dosen pembimbing. Dataset yang kami simpan diolah menggunakan program pada file 'main.py' dan hasilnya ada 3, yaitu edge, grayscale, dan kontras. 
 
-## Image Classification using ANN
+## Image Classification using ANN & CNN
+
+Dibagian ini, dengan menggunakan Jupiter notebook kami mengelola kode yang diberikan dosen di LMS. Untuk pertama ada beberapa installasi yang dilakukan (3 installasi), kemudian kami ubah dataset yang ada pada folder yang diberikan dan kami ubah menjadi dataset yang kami punya. Dan terakhir memulai untuk mencoba kode dan berhasil. 
 
 
-
-## Image Classification using CNN
 
